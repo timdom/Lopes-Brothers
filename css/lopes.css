@@ -1,0 +1,62 @@
+html, body{
+	margin: 0;
+	padding: 0;
+
+}
+
+h2{
+	font-size: 60px;
+	font-family: Bodoni MT;
+	text-align: center;
+}
+
+p{
+	text-align: center;
+	font-size: 22px;
+	font-style: italic;
+	
+
+
+}
+
+img.showreel{
+	max-width: 100%;
+}
+
+img.ablauf{
+	max-width: 30%;
+
+}
+
+ul{
+	list-style: none;
+}
+
+ol{
+	list-style: none;
+}
+
+li{
+	font-size: 22px;
+}
+
+footer{
+    display: inline-flex;
+	text-align: center;
+
+}
+
+footer ul li{
+	text-align: center;
+	display: inline-block;
+	margin: 5px;
+}
+
+
+
+
+
+
+
+
+
